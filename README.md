@@ -1,2 +1,3 @@
 # mindset
-Jupyter Notebook with test task results is here. The dataset itself is located on Yandex Disk.
+Jupyter Notebook with results is here. The dataset itself is located on [Yandex Disk](https://disk.yandex.ru/d/c3Ty9ZQIQSKWgQ):
+
